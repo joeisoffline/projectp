@@ -1,6 +1,7 @@
 <?php
 session_start();
 include('..includes/database.php'); // Your database connection file
+include('..auth/login.php');
 
 // Check if the form was submitted
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
