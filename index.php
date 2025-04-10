@@ -27,12 +27,12 @@ if (isset($_SESSION['user_id'])) {
 
     <div class="content">
         <h1>Welcome to PushCRM</h1>
-        <p>This is your all-in-one platform for managing work orders, contacts, invoicing, payroll, and more!</p>
+        <p>This is your all-in-one platform</p>
         <p>To get started, please <a href="auth/login.php">login</a> to your account.</p>
     </div>
 
     <footer>
-        <p>&copy; 2024 Push CRM. All rights reserved.</p>
+        <p>&copy; 2025 Push CRM. All rights reserved.</p>
     </footer>
 </body>
 </html>
